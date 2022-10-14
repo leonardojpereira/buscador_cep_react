@@ -1,7 +1,7 @@
 ![print_react_project](https://user-images.githubusercontent.com/87662269/195903183-a636f725-8e4d-4388-8379-bcc767d317e6.PNG)
 
 <h1 align="center">
- BUSCADOR DE CEP :map:
+ BUSCADOR DE CEP :world_map:
 </h1>
 
 <h2>
