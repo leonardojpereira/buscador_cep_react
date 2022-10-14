@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leonardojpereira/buscador_cep_react/static/css/main.b0a24348.css",
+    "main.js": "/leonardojpereira/buscador_cep_react/static/js/main.2b69cc8f.js",
+    "index.html": "/leonardojpereira/buscador_cep_react/index.html",
+    "main.b0a24348.css.map": "/leonardojpereira/buscador_cep_react/static/css/main.b0a24348.css.map",
+    "main.2b69cc8f.js.map": "/leonardojpereira/buscador_cep_react/static/js/main.2b69cc8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a24348.css",
+    "static/js/main.2b69cc8f.js"
+  ]
+}
