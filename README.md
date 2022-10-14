@@ -22,7 +22,7 @@ https://viacep.com.br/
 
 ## 💻 Tecnologias utilizadas
 <div display="flex">
-  <img align="center" alt="leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="leo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 ## :link: Deploy
